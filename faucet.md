@@ -6,7 +6,7 @@
 {
     "chain_name": "cosmos",
     // string array ["url1", "url2"] is deprecated.
-    // must be [{"address": "", "provider": ""}]
+    // must be [{"address": union10v9cs5y4uw9r6j7l5ya8mpfu57q3pxp4as600q "", "provider": ""}]
     "api": [
         {
             "address": "https://cosmos.api.ping.pub", 
